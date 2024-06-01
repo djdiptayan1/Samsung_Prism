@@ -1,8 +1,3 @@
-<div align="center">
+# 23RSG40SRM_Filter_Duplicate_Images
+SRIB-PRISM Program
 
-## SAMSUNG Prism
-
-</div>
-
-## Dataset Used:
-    CALIFORNIA-ND: AN ANNOTATED DATASET FOR NEAR-DUPLICATE DETECTION IN PERSONAL PHOTO COLLECTIONS
