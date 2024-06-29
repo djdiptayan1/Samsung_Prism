@@ -24,6 +24,7 @@
 | Sr. No. | Dataset Name | Dataset Description                         | Link       | Password   |
 |---------|--------------|---------------------------------------------|------------|------------|
 | 1       | California-ND| Total Images - 701 Resolution: 1024x768 Authentic user-generated photos | Site, Link | QoMEX-2013 |
+| 2       | Columbia NDI | Total Images - 7200 Resolution: 128x128 | Site, Link | --- |
 
 ## Weekly Project Progress
 
